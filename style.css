@@ -1,0 +1,58 @@
+
+#content {
+	background-color: #000000;
+	color: #FFFFFF;
+	font-family: 'Oswald', serif;
+	font-size: 18px;
+}
+
+#header {
+	background-color: #00274C;
+	border-top: 3px solid #BBBBBB;
+	border-bottom: 3px solid #BBBBBB;
+	height: 200px;
+	text-align: center;
+	font-family: 'Goldman', cursive;
+}
+
+#header p {
+	color: #FFCB05;
+	font-size: 50px;
+	display: inline;
+	line-height: 120px;
+}
+
+#header #degree {
+	color: white;
+	// font-family: 'Sansita Swashed', cursive;
+}
+
+#pfp img{
+  height: 400px;
+  padding: 10px;
+}
+
+#pfp #heading {
+	text-align: center;
+}
+
+#content {    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#heading {
+	font-size: 28px;
+    text-align: left;
+	font-family: 'Goldman', cursive;
+	color: #00f9ff;
+}
+
+#Title {
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+
+#subSection {
+	font-size: 22px;
+}
